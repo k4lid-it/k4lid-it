@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Khalid Fadhel
 
-<!--
-**k4lid-it/k4lid-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Analyst | IT Specialist | Programmer | Manager**  
+📍 Jeddah, Saudi Arabia  
+📧 alyafikalid@gmail.com  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I am an Information Technology graduate with strong experience in data analysis, and software development. I have worked on managing large datasets, building web applications, and developing IoT systems using Arduino. I enjoy solving real-world problems through technology and continuous learning.
+
+---
+
+## 📂 Featured Projects
+
+### 🎓 University Exam Management System
+Web-based system for managing online and in-campus exams with monitoring tools for administrators and IT support.
+
+### 🤖 3D Printed Robotic Hand
+Arduino-based robotic arm controlled by **EMG muscle sensors**, allowing movement using muscle signals.
+
+### 🧊 Smart Fridge (AI)
+AI-powered web application that detects expiry dates and categorizes fridge items automatically.
+
+---
+
+## 📫 Contact
+- Email: alyafikalid@gmail.com  
+- Location: Jeddah, Saudi Arabia
+
+---
+⭐ Feel free to explore my repositories and projects
