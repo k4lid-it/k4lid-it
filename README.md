@@ -20,7 +20,7 @@ Web-based system for managing online and in-campus exams with monitoring tools f
 ### 🤖 [3D Printed Robotic Hand](https://github.com/k4lid-it/Robotic-Hand)
 Arduino-based robotic arm controlled by **EMG muscle sensors**, allowing movement using muscle signals.
 
-### 🧊 Smart Fridge (AI)
+### 🧊 [Smart Fridge (AI)](https://github.com/k4lid-it/Smart-Fridge)
 AI-powered web application that detects expiry dates and categorizes fridge items automatically.
 
 ---
