@@ -11,6 +11,16 @@ I am an Information Technology graduate with strong experience in data analysis,
 
 ---
 
+## 🚀 Tools Arsenal: 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,react,arduino,cloudflare,firebase,py,vscode,raspberrypi" />
+  </a>
+</p>
+
+
+---
+
 ## 📂 Featured Projects
 
 ### 🎓 [University Exam Management System](https://github.com/k4lid-it/Exam-Management-System)
