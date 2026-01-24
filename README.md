@@ -11,7 +11,7 @@ I am an Information Technology graduate with strong experience in data analysis,
 
 ---
 
-## 🚀 Tools Arsenal: 
+## 🚀 Tools & Technologies: 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,react,arduino,cloudflare,firebase,py,vscode,raspberrypi" />
