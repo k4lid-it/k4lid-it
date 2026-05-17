@@ -3,7 +3,9 @@
 **Data Analyst | IT Specialist | Programmer | Manager**  
 📍 Jeddah, Saudi Arabia  
 📧 alyafikalid@gmail.com  
-
+🌐 <a href="https://khaled-f.netlify.app/" target="_blank">
+    khaled-f.netlify.app/
+  </a>
 ---
 
 ## 🚀 About Me
@@ -13,7 +15,7 @@ I am an Information Technology graduate with strong experience in data analysis,
 
 ## 🚀 Tools & Technologies: 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=cpp,react,arduino,cloudflare,firebase,py,vscode,raspberrypi" />
   </a>
 </p>
@@ -30,8 +32,13 @@ Web-based system for managing online and in-campus exams with monitoring tools f
 ### 🤖 [3D Printed Robotic Hand](https://github.com/k4lid-it/Robotic-Hand)
 Arduino-based robotic arm controlled by **EMG muscle sensors**, allowing movement using muscle signals.
 
+
 ### 🧊 [Smart Fridge (AI)](https://github.com/k4lid-it/Smart-Fridge)
 AI-powered web application that detects expiry dates and categorizes fridge items automatically.
+
+
+### 🌐 [Portfolio website](https://github.com/k4lid-it/Portfolio)
+My personal website, showcasing my experiences and courses.
 
 ---
 
