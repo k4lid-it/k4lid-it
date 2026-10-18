@@ -3,6 +3,9 @@
 **Data Analyst | IT Specialist | Programmer**  
 📍 Jeddah, Saudi Arabia  
 📧 alyafikalid@gmail.com  
+🌐 <a href="https://khaled-f.netlify.app/" target="_blank">
+    khaled-f.netlify.app/
+  </a>
 
 ---
 
