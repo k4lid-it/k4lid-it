@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Khalid Fadhel
 
-**Data Analyst | IT Specialist | Programmer | Manager**  
+**Data Analyst | IT Specialist | Programmer**  
 📍 Jeddah, Saudi Arabia  
 📧 alyafikalid@gmail.com  
 
